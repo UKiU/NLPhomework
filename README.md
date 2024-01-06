@@ -20,7 +20,7 @@ You can download other pre-trained BERT model English from [Google](https://gith
 
 ## Using our pre-trained RE-AGCN
 
-For RE-AGCN, the best model we trained on semeval in our experiment is released on ['RE_AGCN'](./RE_AGCN.SEMEVAL.BERT.L), please download it and unzip it to the current directory.
+For RE-AGCN, the best model we trained on semeval in our experiment is released on ['RE_AGCN'](https://drive.google.com/file/d/1bLJkvcxKv4vGUsRJfV9FkbOgeYFveWbm/view?usp=drive_link), please download it and unzip it to the current directory.
 
 ## Training and Testing
 
